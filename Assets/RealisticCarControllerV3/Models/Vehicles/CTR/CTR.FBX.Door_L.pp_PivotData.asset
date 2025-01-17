@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 583688de1c5b4ce4e9435544090f390c, type: 3}
+  m_Name: CTR.FBX.Door_L.pp_PivotData
+  m_EditorClassIdentifier: 
+  PivotDelta: {x: -0.024040222, y: 0.008034255, z: 0.6026516}
+  OriginalMesh: {fileID: -5225641529676788, guid: b7b7a0ab1a7cb214ab090dc40840536c, type: 3}
+  ModifiedMesh: {fileID: 4300000, guid: 1638db055d2d082409791130ccdc4be9, type: 2}
